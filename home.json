@@ -1,0 +1,10 @@
+[
+  {
+    "editor": "@blockcode/gui-arcade",
+    "import": "arcade/page.json"
+  },
+  {
+    "editor": "@blockcode/gui-arduino",
+    "import": "arduino/page.json"
+  }
+]

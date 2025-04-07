@@ -1,0 +1,64 @@
+[
+  {
+    "name": "2048",
+    "author": "张砷镓",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/2048.bcp",
+    "thumb": "arcade/img/2048.png"
+  },
+  {
+    "name": "Ping-pong",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/Ping_Pong.bcp",
+    "thumb": "arcade/img/Ping_Pong.png"
+  },
+  {
+    "name": "3D Box",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/3D_Box.bcp",
+    "thumb": "arcade/img/3D_Box.png"
+  },
+  {
+    "name": "AI 成语接龙",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/AI_Idioms_Chain.bcp",
+    "thumb": "arcade/img/AI_Idioms_Chain.png"
+  },
+  {
+    "name": "太空人时钟",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/Spaceman_Clock.bcp",
+    "thumb": "arcade/img/Spaceman_Clock.png"
+  },
+  {
+    "name": "自制天气预报",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/Weather_Man.bcp",
+    "thumb": "arcade/img/Weather_Man.png"
+  },
+  {
+    "name": "Clock",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/Clock.bcp",
+    "thumb": "arcade/img/Clock.png"
+  },
+  {
+    "name": "霓虹射线",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/Neon_Lines.bcp",
+    "thumb": "arcade/img/Neon_Lines.png"
+  },
+  {
+    "name": "Ladybug",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/Ladybug.bcp",
+    "thumb": "arcade/img/Ladybug.png"
+  },
+  {
+    "name": "Hello!",
+    "copyright": "Scratch",
+    "editor": "@blockcode/gui-arcade",
+    "file": "arcade/bcp/Hello!.bcp",
+    "thumb": "arcade/img/Hello!.png"
+  }
+]
