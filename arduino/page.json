@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "Blink!",
+    "copyright": "Arduino",
+    "editor": "@blockcode/gui-arduino",
+    "file": "arduino/bcp/Blink!.bcp",
+    "thumb": "arduino/img/Blink!.png"
+  }
+]
